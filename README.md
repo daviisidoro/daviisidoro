@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Rodrigues+Isidoro;Eu+tenho+19+anos;Eu+sou+de+São+Miguel,+em+SP;Análise+e+Desenvolvimento+de+Sistemas+na+UNICSUL;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Rodrigues+Isidoro;Eu+tenho+20+anos;Eu+sou+de+São+Miguel,+em+SP;Ciência+da+Computação+na+UNICSUL;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daviisidoro&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=ff0000&text_color=0000ff&bg_color=0d1117" alt="Davi Rodrigues Isidoro github stats" /> 
